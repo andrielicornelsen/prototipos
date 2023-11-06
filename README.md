@@ -1,2 +1,2 @@
-# prototipos
+# prototipo
 Protótipo Site I
